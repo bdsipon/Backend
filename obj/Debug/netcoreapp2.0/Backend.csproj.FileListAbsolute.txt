@@ -1,0 +1,4 @@
+C:\Users\sipon\OneDrive\Desktop\Challenge\CodingChallenge\WebApplication1\obj\Debug\netcoreapp2.0\Backend.csprojResolveAssemblyReference.cache
+C:\Users\sipon\OneDrive\Desktop\Challenge\CodingChallenge\WebApplication1\obj\Debug\netcoreapp2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\sipon\OneDrive\Desktop\Challenge\CodingChallenge\WebApplication1\obj\Debug\netcoreapp2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\sipon\OneDrive\Desktop\Challenge\CodingChallenge\WebApplication1\obj\Debug\netcoreapp2.0\Backend.AssemblyInfo.cs

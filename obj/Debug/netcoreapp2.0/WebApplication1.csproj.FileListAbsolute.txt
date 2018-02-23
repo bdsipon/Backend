@@ -1,0 +1,22 @@
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\jatin\documents\visual studio 2017\Projects\WebApplication3\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\sipon\OneDrive\Desktop\Challenge\Code\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
