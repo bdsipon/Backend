@@ -12,5 +12,9 @@ namespace WebApplication1.Model
         public int ParaId { get; set; }
         public string ParaText { get; set; }      
     }
-
+    public class PostParaRight
+    {        
+        public string ParaText { get; set; }
+        public int[] paraIds { get; set; }
+    }
 }
